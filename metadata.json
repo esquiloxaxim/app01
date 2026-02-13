@@ -1,0 +1,7 @@
+{
+  "name": "Ginga Paraná",
+  "description": "O maior evento de capoeira do sul do Brasil. App para inscrições e gestão de atletas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
